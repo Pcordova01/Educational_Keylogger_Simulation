@@ -14,7 +14,7 @@ This project is a simple Python keylogger that captures keystrokes using the `py
 - Built for testing and learning about keylogging mechanisms
   
 ## 📽️ Video Demonstration
-<video src="https://github.com/user-attachments/assets/e71172f6-4e8d-4a28-bc02-c7f5f5341897" controls width="400"></video>
+<video src="https://github.com/user-attachments/assets/e71172f6-4e8d-4a28-bc02-c7f5f5341897" controls width="200"></video>
 
 ## ⚙️ How to Run the App
 
