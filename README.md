@@ -20,10 +20,9 @@ This project is a simple Python keylogger that captures keystrokes using the `py
 
 - Clone the repository: [https://github.com/your-username/python-keylogger-email-demo.git  ](https://github.com/Pcordova01/python-keylogger-emailer/blob/main/README.md)
 - Open the project folder in VS Code  
-- Open the `send_email.py` file and replace the email, password, and receiver with your own Gmail and [App Password](https://myaccount.google.com/apppasswords)  
+- Open the `send_email.py` file and replace the email, password, and receiver with your own Gmail and App Password
 - Open a terminal and run:
   ```bash
   pip install pynput
   python main.py
-
 
