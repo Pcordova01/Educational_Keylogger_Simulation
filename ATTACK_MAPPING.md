@@ -1,4 +1,4 @@
-# 🎯 MITRE ATT&CK Mapping – Python Keylogger Simulation
+# MITRE ATT&CK Mapping – Python Keylogger Simulation
 
 This project simulates adversary behavior for educational and ethical purposes, focusing on data collection and exfiltration tactics. The table below maps the behavior of the keylogger to known techniques in the MITRE ATT&CK framework.
 
@@ -9,7 +9,7 @@ This project simulates adversary behavior for educational and ethical purposes, 
 
 ---
 
-### 🛡️ Notes
+### Notes
 
 - These mappings are based on how adversaries operate in red team/penetration test scenarios.
 - This simulation was created for ethical research and security awareness training.
@@ -17,7 +17,7 @@ This project simulates adversary behavior for educational and ethical purposes, 
 
 ---
 
-### 📚 References
+### References
 
 - [MITRE ATT&CK - T1056.001](https://attack.mitre.org/techniques/T1056/001/)
 - [MITRE ATT&CK - T1041](https://attack.mitre.org/techniques/T1041/)
