@@ -4,7 +4,7 @@
 
 ## 📜 Objective
 
-The purpose of this project is to simulate a credential harvesting technique using a simple Python-based keylogger. It captures keystrokes using the `pynput` library and sends the recorded input to a specified email address after every 10 keystrokes. This simulation offers hands-on insight into common red team tactics such as data exfiltration and credential theft, while also highlighting potential blue team detection strategies—such as monitoring for unusual SMTP activity or unauthorized keylogging behavior.
+The purpose of this project is to simulate a credential harvesting technique using a simple Python-based keylogger. It captures keystrokes using the `pynput` library and sends the recorded input to a specified email address after every 10 keystrokes. This simulation offers hands-on insight into common red team tactics such as data exfiltration and credential theft, while also highlighting potential blue team detection strategies—such as monitoring for unusual SMTP activity or unauthorized keylogging behavior. I took inspiration from multiple python-based keyloggers I found on stack overflow, github, and youtube.
 
 ## 🔧 Tools Used
 
