@@ -4,7 +4,7 @@
 
 ## 📜 Objective
 
-The purpose of this project is to simulate a credential harvesting teqchnique utilizing a simple Python keylogger that captures keystrokes using the `pynput` library and sends the recorded input to a specified email address after every 10 keystrokes. It helps to understand how attackers may attempt to exfiltrate data, and how such techniques can be detected and mitigated in a real-world environment. 
+The purpose of this project is to simulate a credential harvesting technique using a simple Python-based keylogger. It captures keystrokes using the `pynput` library and sends the recorded input to a specified email address after every 10 keystrokes. This simulation provides insight into how attackers may attempt to exfiltrate data, and how such techniques can be detected and mitigated in a real-world environment. 
 
 ## 🔧 Tools Used
 
