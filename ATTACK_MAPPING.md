@@ -1,6 +1,6 @@
 # MITRE ATT&CK - Educational Keylogger Simulation
 
-**This project is intended for **educational and ethical purposes** only!!** 
+**This project is intended for educational and ethical purposes only!!** 
 
 ## What is MITRE ATT&CK?
 
