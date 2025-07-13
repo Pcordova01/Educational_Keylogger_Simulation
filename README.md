@@ -1,4 +1,4 @@
-# 🐍 Educational Keylogger Simulation
+# 🐍 Ethical Keylogger Simulation
 
 ### ** Disclaimer: This project is for ethical purposes only!! Please do not be irresponsible!!! **
 
