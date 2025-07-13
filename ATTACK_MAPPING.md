@@ -1,24 +1,14 @@
-# MITRE ATT&CK Mapping – Python Keylogger Simulation
+# MITRE ATT&CK - Educational Keylogger Simulation
 
-This project simulates adversary behavior for educational and ethical purposes, focusing on data collection and exfiltration tactics. The table below maps the behavior of the keylogger to known techniques in the MITRE ATT&CK framework.
+## What is MITRE ATT&CK?
 
-| **Tactic**       | **Technique ID** | **Technique Name**               | **Description**                                                                 |
-|------------------|------------------|----------------------------------|---------------------------------------------------------------------------------|
-| Collection        | T1056.001         | Keylogging                       | Captures keyboard input using Python’s `pynput` to simulate input collection.   |
-| Exfiltration      | T1041             | Exfiltration Over C2 Channel     | Sends keystroke logs via encrypted Gmail SMTP connection (TLS) every 10 keys.  |
+MITRE ATT&CK is a popular framework that documents the tactics and techniques that real-world cyber advasaries use to initiate attacks. The idea is to give cybersecurity professionals tools to enhance their threat intelligence to improve their strategies of mitigating attacks.  
 
----
+This project is intended for **educational and ethical purposes** only. 
 
-### Notes
+## ATT&CK Technique Mapping
 
-- These mappings are based on how adversaries operate in red team/penetration test scenarios.
-- This simulation was created for ethical research and security awareness training.
-- Real-world attackers may use additional methods for stealth, persistence, and lateral movement.
-
----
-
-### References
-
-- [MITRE ATT&CK - T1056.001](https://attack.mitre.org/techniques/T1056/001/)
-- [MITRE ATT&CK - T1041](https://attack.mitre.org/techniques/T1041/)
-- [MITRE ATT&CK Framework](https://attack.mitre.org/)
+| Tactic       | Technique ID | Name                                | Use in Project                                                                 | Recommendation                                                                 |
+|--------------|--------------|-------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Collection   | [T1056.001](https://attack.mitre.org/techniques/T1056/001/) | Input Capture: Keylogging                | Logs every keystroke using `pynput`, simulating how adversaries steal credentials | Monitor for suspicious keylogging behavior using EDR, disable unnecessary scripting tools |
+| Exfiltration | [T1041](https://attack.mitre.org/techniques/T1041/)         | Exfiltration Over C2 Channel             | Sends captured data via Gmail SMTP with TLS encryption, simulating covert data transfer | Monitor for unusual outbound SMTP traffic or frequent small email sends |
