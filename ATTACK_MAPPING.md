@@ -1,4 +1,4 @@
-# MITRE ATT&CK - Educational Keylogger Simulation
+# MITRE ATT&CK - Ethical Keylogger Simulation
 Inspired By: [CISA Best Practices for MITRE ATT&CK Mapping (2023)](https://www.cisa.gov/sites/default/files/2023-01/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf)
 
 **This project is intended for educational and ethical purposes only!!** 
