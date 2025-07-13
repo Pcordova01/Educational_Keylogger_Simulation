@@ -35,9 +35,9 @@ The purpose of this project is to simulate a credential harvesting technique usi
 <video src="https://github.com/user-attachments/assets/e71172f6-4e8d-4a28-bc02-c7f5f5341897" controls width="200"></video>
 
 ## 🔍 Detection Considerations
-- Monitor SMTP Traffic- Look for unusual email activity from non-email related apps.
-- Excessive Background Processes- Keyloggers usually run in the background. Try spotting unusual processes running without windows.
-- Frequent Outbound Emails- Watch out for small, repeated emails that suggest data exfiltration.
+- **Monitor SMTP Traffic**- Look for unusual email activity from non-email related apps.
+- **Excessive Background Processes**- Keyloggers usually run in the background. Try spotting unusual processes running without windows.
+- **Frequent Outbound Emails**- Watch out for small, repeated emails that suggest data exfiltration.
   
 ## ⚙️ How to Run the App
 
