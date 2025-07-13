@@ -1,10 +1,10 @@
 # MITRE ATT&CK - Educational Keylogger Simulation
 
+**This project is intended for **educational and ethical purposes** only!!** 
+
 ## What is MITRE ATT&CK?
 
 MITRE ATT&CK is a popular framework that documents the tactics and techniques that real-world cyber advasaries use to initiate attacks. The idea is to give cybersecurity professionals tools to enhance their threat intelligence to improve their strategies of mitigating attacks.  
-
-## This project is intended for **educational and ethical purposes** only. 
 
 ## ATT&CK Technique Mapping
 
