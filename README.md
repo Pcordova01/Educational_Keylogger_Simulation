@@ -17,9 +17,9 @@ The purpose of this project is to simulate a credential harvesting technique usi
 ## 🧠 Skills Learned
 
 - Keylogging mechanisms and input capture
-- Secure email transmission using SMTP with TLS
+- Secure email transmission using **SMTP** with **TLS**
 - Simulating basic exfiltration techniques
-- Mapping behavior to MITRE ATT&CK techniques
+- Mapping behavior to **MITRE ATT&CK** techniques
 - Implementing ethical hacking projects responsibly
 - Writing maintainable, modular Python code
 - Basic red team methodology and blue team awareness
